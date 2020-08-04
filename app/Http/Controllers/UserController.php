@@ -8,6 +8,8 @@ class UserController extends Controller
 {
     public function store(Request $request)
     {
-        // Validate and store the blog post...
+        $validator = Validator::make($request->all(), [
+            'Email'=>'required|email'
+        ]);
     }
 }
