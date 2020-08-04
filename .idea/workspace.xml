@@ -139,7 +139,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -156,7 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596421199371</updated>
       <workItem from="1596421201092" duration="111000" />
-      <workItem from="1596421323122" duration="8594000" />
+      <workItem from="1596421323122" duration="9057000" />
     </task>
     <servers />
   </component>
@@ -180,10 +180,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="100" y="123" width="1240" height="677" key="DirDiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1596429363752" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1596421311928">
+    <state x="221" y="100" key="SettingsEditor" timestamp="1596505508459">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1596421311928" />
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1596505508459" />
     <state x="625" y="119" key="ftp.server.browser" timestamp="1596423444929">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
