@@ -13,9 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/photo', function () {
-    return view('photo');
-});
+Route::resource('/User', 'UserController');
+
+//Route::get('/photo', function () {
+//    return view('photo');
+//});
 //
 //Route::get('/tech', function () {
 //    return view('tech');
