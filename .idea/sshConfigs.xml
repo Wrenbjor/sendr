@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="protips.local" id="46d67b07-73bb-4859-ae18-19567fd490fc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="wrenbjor" />
+    </configs>
+  </component>
+</project>
